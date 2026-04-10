@@ -2,7 +2,7 @@
  * OOPSBannerApp
  * UC4 - Print OOPS banner using Array and Loop
  *
- * @author Abhishek
+ * @author Sumit
  * @version 4.0
  */
 public class OOPSBannerApp {
