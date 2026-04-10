@@ -2,7 +2,7 @@
  * OOPSBannerApp
  * UC3 - Print OOPS banner using String.join()
  *
- * @author Abhishek
+ * @author Sumit
  * @version 3.0
  */
 public class OOPSBannerApp {
