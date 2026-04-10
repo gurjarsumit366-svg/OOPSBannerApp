@@ -2,7 +2,7 @@
  * OOPSBannerApp
  * UC5 - Print OOPS banner using compact array initialization
  *
- * @author Abhishek
+ * @author Sumit
  * @version 5.0
  */
 public class OOPSBannerApp {
